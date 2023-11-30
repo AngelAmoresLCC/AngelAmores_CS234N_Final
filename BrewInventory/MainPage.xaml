@@ -9,6 +9,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <TextBlock TextWrapping="Wrap" Text="Add a Brew" Margin="0,135,0,0" FontSize="100" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <ListView Margin="171,273,196,120"/>
 
     </Grid>
 </Page>
