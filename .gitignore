@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/BITS/MMABooksEFClasses/mySqlSettings.json
+/BITS/MMABooksEFClasses/mySqlSettings.json
+/BITS/mySqlSettings.json
