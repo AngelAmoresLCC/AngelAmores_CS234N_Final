@@ -399,3 +399,7 @@ FodyWeavers.xsd
 /BITS/MMABooksEFClasses/mySqlSettings.json
 /BITS/MMABooksEFClasses/mySqlSettings.json
 /BITS/mySqlSettings.json
+/BITS/BarrelDB.cs
+/Bits/BitsClasses/Models/BitsContext.cs
+/Bits/MMABooksDBClasses/mySqlSettingsExample.json
+/Bits/MMABooksDBClasses/mySqlSettings.json
